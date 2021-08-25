@@ -1,6 +1,6 @@
 # Cypress Learning
 
-The test runner which is modern testing with cross-browser compatibility. Easy to use and Friendly to user with GUI.[visit official website here](https://www.cypress.io/).
+The test runner which is modern testing with cross-browser compatibility. Easy to use and Friendly to user with GUI. [visit official website here](https://www.cypress.io/).
 
 ## Installation
 
@@ -51,7 +51,7 @@ describe('hello world', () => {
 
 Then, you can open Cypress and start automate testing.
 
-Cypress is built on top of Mocha and Chai. We support both Chai's BDD and TDD assertion styles. Tests you write in Cypress will mostly adhere to this style.
+Cypress is built on top of Mocha and Chai which support both Chai's BDD and TDD assertion styles. Tests you write in Cypress will mostly adhere to this style.
 
 ### Test Structure
 
