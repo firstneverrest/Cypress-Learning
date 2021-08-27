@@ -1,6 +1,6 @@
 # Cypress Learning
 
-The test runner which is modern testing with cross-browser compatibility. Easy to use and Friendly to user with GUI. [visit official website here](https://www.cypress.io/).
+The test runner which is modern testing with cross-browser compatibility. Easy to use and friendly to user with wonderful GUI. [visit official website here](https://www.cypress.io/).
 
 ## Installation
 
@@ -31,6 +31,11 @@ npx cypress run --headless
 ```
 
 ## Folder Structure
+
+1. fixtures - dummy data
+2. integration - test files used to create test case, test suite and so on
+3. plugins - extends functionality of cypress
+4. support - create reusable code such as command
 
 ## Writing Test
 
